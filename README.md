@@ -20,4 +20,4 @@
 ![Sarvesh Hon's Github Stats](https://github-readme-stats.vercel.app/api?username=sarveshhon&show_icons=true&hide_border=true)
 <br />
 
-<center>![visitors](https://visitor-badge.laobi.icu/badge?page_id=sarveshhon.sarveshhon)<center>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sarveshhon.sarveshhon)
