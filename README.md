@@ -15,3 +15,7 @@
 <a href="https://stackoverflow.com/users/12266434/sarvesh-hon">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 </a>
+<br>
+![Sarvesh Hon's Github Stats](https://github-readme-stats.vercel.app/api?username=sarveshhon&show_icons=true&hide_border=true)
+<br />
+<center>![visitors](https://visitor-badge.laobi.icu/badge?page_id=sarveshhon.sarveshhon)<center>
