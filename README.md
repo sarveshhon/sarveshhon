@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've done Android Development for more than 4yrs now learning Flutter, Go, React and many more cool stuff.
+I've done Android Development for more than 4yrs now learning Golang, and many more cool stuff.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sarveshhon@gmail.com](mailto:sarveshhon@gmail.com)
