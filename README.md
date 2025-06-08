@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarvesh Hon
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I am Sarvesh Hon
 ===================================================================================================================================
 
-Works as a Member of Technical Staff 1
+Works as a Software Engineer 2 - MTS II @ Cohesity
 -----------------
 
-I know Java now learning Golang, and more cool stuff.
+I like to turn ideas into reality and build more cool stuff.
 
 * 🌍  I'm based in Pune, India
-* I am Learning Golang.
+* I am working in Java & Golang.
 * ✉️  You can contact me at [sarveshhon@gmail.com](mailto:sarveshhon@gmail.com)
 
 ### Skills
